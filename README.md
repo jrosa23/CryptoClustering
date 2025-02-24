@@ -1,6 +1,4 @@
- CryptoClustering
-
-## Overview
+##  CryptoClustering
 
 This project uses clustering techniques to analyze cryptocurrency market data. It leverages machine learning techniques, including K-Means clustering and Principal Component Analysis (PCA), to identify patterns in the data.
 
